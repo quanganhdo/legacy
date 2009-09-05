@@ -1,0 +1,82 @@
+/*
+Theme Name: 800
+Theme URI: http://quanganhdo.com/
+Description: The simplest theme. Ever.
+Version: 1.0
+Author: Quang Anh Do
+Author URI: http://quanganhdo.com/
+*/
+
+body {
+	text-align: center;
+	font-family: Verdana;
+}
+
+div#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 750px;
+	text-align: left;
+}
+
+div#wrapper a {
+	text-decoration: none;
+	color: #0080FF !important;
+}
+
+div#wrapper a:hover {
+	border-bottom: 1px dotted;
+}
+
+a#why {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	display: block;
+	height: 67px;
+	width: 65px;
+	background: url(http://800kytu.com/wp-content/themes/800/why.png) bottom right no-repeat;
+	text-indent: -999em;
+	text-decoration: none;
+}
+
+div.quote {
+	padding: 100px 30px 0px 30px;
+}
+
+div.quote span.quote {
+    font-size: 20px;
+    color: #444;
+}
+
+div.quote span.quote a {
+    color: #444;
+}
+
+div.quote span.quote big.quote {
+    font: Bold 60px Georgia, serif;
+    line-height: 1px;
+    vertical-align: -23px;
+    opacity: 0.4;
+    -moz-opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+div.quote span.quote big.quote a {
+    text-decoration: none;
+}
+
+div.quote small {
+	font-size: 12px;
+}
+
+div.quote div.source {
+    font-size: 16px;
+    color: #666;
+	text-align: right;
+	margin-top: 10px;
+}
+
+div.quote div.source a {
+    color: #666;
+}

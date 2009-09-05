@@ -1,0 +1,82 @@
+.jqiwarning .jqi {
+	background-color: #acb4c4;
+}
+.jqifade {
+	position: absolute;
+	background-color: #aaaaaa;
+}
+div.jqi {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	position: absolute;
+	background-color: #ffffff;
+	width: 500px;
+	font-size: 11px;
+	text-align: left;
+	border: solid 1px #669900;
+}
+div.jqi .jqicontainer {
+	background-color: #ffffff;
+	border-top: solid 14px #669900;
+	padding: 5px;
+	font-weight: bold;
+}
+div.jqi .jqiclose {
+	float: right;
+	width: 18px;
+	cursor: default;
+	margin: -19px -12px 0 0;
+	color: #ffffff;
+	font-weight: bold;
+}
+div.jqi .jqimessage {
+	padding: 5px;
+	line-height: 20px;
+	font-size: 11px;
+	color: #333333;
+}
+div.jqi .jqibuttons {
+	text-align: right;
+	padding: 5px 0 5px 0;
+	border: solid 1px #eeeeee;
+	background-color: #f4f4f4;
+}
+div.jqi button {
+	padding: 3px 10px;
+	margin: 0 10px;
+	background-color: #669900;
+	border: solid 1px #f4f4f4;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 12px;
+}
+div.jqi button:hover {
+	border: solid 1px #d4d4d4;
+}
+
+div.jqi div.text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin: 5px;
+}
+
+div.jqi div.text a {
+	color: #669900;
+	text-decoration: none;
+}
+
+div.jqi div.text a:hover {
+	border-bottom: dashed 1px #669900;
+}
+
+div.e3 {
+	overflow: auto;
+	height: 300px;
+}
+
+div.e3 img {
+	border: solid 1px white;
+}
+
+div.e3 img:hover {
+	cursor: pointer;
+	border: solid 1px black;
+}

@@ -1,0 +1,31 @@
+#ypf-pet .bd .edit {
+   clear:both;
+			float:none;
+			margin:0 0 7px 0;
+}
+#ypf-pet .bd .edit a {
+   float:right;
+			text-align:right;
+}
+#ypf-pet ul {
+   font-size:80%;
+}
+#ypf-pet li {
+   margin:0 0 5px 0;
+}
+#ypf-pet ul span.title {
+   font-weight:bold;
+   padding:1px 0.4em 0 0;
+}
+#ypf-pet ul span.value {
+   position:relative;
+}
+.col-AA #ypf-pet img {
+   clear:right;
+			float:left;
+			margin:0 5px 0 0;
+}
+.col-AA #ypf-pet .wrapper {
+   clear:right;
+			float:left;
+}

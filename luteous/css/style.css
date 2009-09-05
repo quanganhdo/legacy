@@ -1,0 +1,77 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: Verdana;
+	overflow: hidden;
+	color: #AAAAAA;
+}
+#sidebar {
+	float: left;
+	width: 450px;
+	background-color: #303030;
+	min-height: 650px; /* for modern browsers */
+	height:auto !important; /* for modern browsers */
+	height:650px; /* for IE5.x and IE6 */
+}
+#playground {
+	color:#EEEEEE;
+	font-family:tahoma, verdana, arial;
+	font-size:0.8em;
+	font-size-adjust:none;
+	font-stretch:normal;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	height:90%;
+	line-height:normal;
+	padding-left:10px;
+}
+#editor {
+	margin: 10px;
+	width: 95%;
+}
+#profile {
+	border: 0px;
+	display: block;
+	float: left;
+}
+#extra {
+	margin-top: 10px;
+	margin-right: 15px;	
+}
+#extra p input, #extra p a {
+	margin-left: 10px;
+}
+#extra a {
+	color: white;
+}
+#extra a.breadcrumb {
+	color: orange;
+}
+#loadingBG {
+	display: none;
+	position: absolute;
+	background: #000;
+	opacity: 0.7;
+	-moz-opacity: 0.7;
+	-khtml-opacity: 0.7;
+	filter: alpha(opacity=40);
+	width: 100%;
+	height: 100%;
+	z-index: 99;
+}
+#loading {
+	display: none;
+	position: absolute;
+	top: 70px;
+	z-index: 100;
+	color: black;
+	text-align: center;
+	background-color: #B9E77B;
+	padding: 15px;
+}
+#loading p, #extra p {
+	padding-bottom: 10px;
+}

@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^mash.quanganhdo.com$
+RewriteRule ^/?$ http://quanganhdo.com/mash [R=301,L]
+
