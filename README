@@ -1,3 +1,28 @@
-Đây là tập hợp mã nguồn những "dự án" nho nhỏ mà tớ từng thực hiện. Bạn có thể sử dụng chúng cho mục đích phi lợi nhuận với điều kiện ghi rõ nguồn gốc và đặt liên kết tới trang web của tớ: http://quanganhdo.com.
+A collection of scripts I wrote years and years ago.
 
-Thắc mắc bạn có thể liên hệ với tớ qua địa chỉ me [at] quanganhdo [dot] com
+They are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+
+# 360xport
+
+A bookmarklet to export blog posts from Yahoo! 360 (when it was still a living thing) to WordPress.
+
+# 800
+
+A WordPress theme to display a random funny story on each page load. 800 is the character limit of a Yahoo! Messenger message. Keeping those stories well under 800 characters make them easy to be shared.
+
+# e3
+
+Another bookmarklet to insert emoticons in BBQuote or HTML to the comment area of a blog or forum post. Don't remember why I named it that way though.
+
+# learn
+
+Give you a random link to WikiHow on each page load. Learn something new today, get it?
+
+# luteous
+
+A CSS editor for Yahoo! Mash, another failed production from Yahoo!
+
+# wordclock
+
+A JavaScript remake of the other Flash-powered wordclock.
+
